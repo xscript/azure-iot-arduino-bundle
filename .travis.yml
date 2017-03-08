@@ -47,3 +47,4 @@ install:
   - ln -s $PWD $HOME/Arduino/libraries/.
 script:
   - buildExampleSketch simplesample_http
+  - buildExampleSketch simplesample_mqtt
