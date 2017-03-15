@@ -1,4 +1,4 @@
-# azure-iot-arduino-kit
+# azure-iot-arduino-bundle
 [![Build Status](https://travis-ci.org/xscript/azure-iot-arduino-kit.svg?branch=master)](https://travis-ci.org/xscript/azure-iot-arduino-kit)
 
 Azure IoT libraries for Arduino packed together. It consists of the following libraries:
